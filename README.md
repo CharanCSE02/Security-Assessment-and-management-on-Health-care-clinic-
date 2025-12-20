@@ -68,7 +68,7 @@ Family Health's risk:
 
 •	A summary of the Security Rule of the Health Insurance Portability and
 Accountability Act (HIPAA)
-### Remediation After Security Assessment
+### Security Assessment Analysis
 Summary of HIPAA rules:
 
 Cedarville Family Health lacks the comprehensive security measures needed to protect e-PHI
@@ -90,3 +90,11 @@ Risk management:
 Cedarville Family Health has not established, it means not conducting any regular risk analysis.
 
 Cedarville Family Health has not established, it means not conducting risk assessments and risk mitigation.
+### Remediation
+Cedarville family health wants to make encrypteds the storing data and transfering data. Always prefrom base encryption on hard disk drives where you caring offsite.
+
+Cedarville family health using back up with encryption from and used 3-2-1 backup strategy like 3 three backup stroages.
+
+The organization wants asign individual works and Role-based-Access-Controls in responsible manger.
+
+The organization want conducts regular risk assessments and vulnerability assessment.
