@@ -1,4 +1,4 @@
-# Security-Assessment-and-management-on-Health-care-clinic-
+# Security-Assessment-on-Health-care-clinic-
 I performs a security assessment and management on health care clinic.
 
 After completation of IBM module 1 & 2, where we are calling it has IBM Governance, Risk, Compilance and Data privacy. Then IBM Skills Bulid provides me a project. The project objective is performs security assessment on small health care clinic called has Cedarville Family Health. So, that starts with information analysis of they provided like.
